@@ -1,3 +1,10 @@
+# Trustock - A Decentralized Exchange
+
+## Overview
+Trustock is a decentralized exchange (DEX) designed to provide users with a secure and transparent platform for trading various cryptocurrencies. Built on blockchain technology, Trustock enables peer-to-peer trading without the need for intermediaries.
+
+## Installation Guide
+
 1. Install Dependencies:
 Make sure you have Node.js and npm installed on your machine. If not, download and install them from the official website.
 
@@ -32,5 +39,13 @@ This will launch the front-end application, typically accessible at http://local
 
 7. Interact with the Smart Contract:
 Visit http://localhost:3000/ in your browser to start interacting with the MetaMask wallet. The front-end code should have functionalities to interact with the deployed smart contract, such as reading data from the contract or sending transactions.
-AUTHOR:
-Hemadri Donadula
+
+### Author Information:
+
+[Hemadri Donadula](https://github.com/hemadridonadula07)
+
+[Siva Sankar Reddy Vattigunta](https://github.com/sivasankarreddyvattigunta)
+
+### Supervisor
+
+Ms.Sheetal Laroiya
