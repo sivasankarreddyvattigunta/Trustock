@@ -50,4 +50,8 @@ Ms.Sheetal Laroiya
 
 [Siva Sankar Reddy Vattigunta](https://github.com/sivasankarreddyvattigunta)
 
+### License
+
+This project is licensed under the [MIT License](https://github.com/sivasankarreddyvattigunta/Trustock/blob/main/LICENSE)
+
 
